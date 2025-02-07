@@ -1,2 +1,1 @@
-使用savefordesk.bat保存桌面布局为文件
-使用gobackdesk.bat读取文件，恢复桌面布局
+A lightweight tool for recovering the desktop layout on Windows.
